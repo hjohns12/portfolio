@@ -982,6 +982,16 @@ Products Page
 .project-details {
   padding: 2rem 1.5rem;
 }
+
+.project-explainer {
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+.project-explainer p {
+  padding-top: 10px;
+}
+
 .project-footer {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1001,4 +1011,11 @@ Products Page
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
   gap: 3rem 1rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
