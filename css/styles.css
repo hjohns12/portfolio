@@ -991,6 +991,9 @@ Products Page
 .project-explainer p {
   padding-top: 10px;
 }
+.project-explainer h3 {
+  padding-top: 20px;
+}
 
 .project-footer {
   display: grid;
